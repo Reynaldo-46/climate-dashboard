@@ -126,7 +126,7 @@ Your Name
 
 ## 📞 Support
 
-For questions or support, please open an issue or contact us at support@example.com
+For questions or support, please open an issue or contact us at reynaldo.yasona06@gmail.com
 
 ---
 
